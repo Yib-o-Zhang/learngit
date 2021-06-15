@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 
 add feature 1
 add feature 2
+
+add feature 3
